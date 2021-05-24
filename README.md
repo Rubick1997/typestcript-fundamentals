@@ -88,8 +88,3 @@ understanding of how these licenses work:
 - Writing a book that uses the code for these exercises
 - Recording a screencast that contains one or more of this project's exercises
 
-# Copyright
-
-&copy; 2018 [Mike.Works](https://mike.works), All Rights Reserved
-
-###### This material may not be used for workshops, training, or any other form of instructing or teaching developers, without express written consent
